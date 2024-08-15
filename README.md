@@ -1,5 +1,4 @@
 # PLP-Basic-Git-Assignment
-
 Here's a document outlining the instructions for the assignment, including linking a local repository to GitHub, making changes, committing, pushing, and verifying:
 
 Git and GitHub Assignment Instructions
